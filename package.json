@@ -4,8 +4,8 @@
   "description": "We have no clue what we doin here...",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon --exec babel-node server.js",
-    "inspect": "nodemon --inspect --exec babel-node server.js"
+    "start": "nodemon app.js",
+    "inspect": "nodemon app.js"
   },
   "author": "PASS Dev Team",
   "license": "ISC",
